@@ -11,5 +11,6 @@ namespace game {
         public int w;
         public int e;        
         public string name;
+        public string description;
     }
 }

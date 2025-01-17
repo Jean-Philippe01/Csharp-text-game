@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|c:\\users\\jeanp\\onedrive\\udemy\\adventures in c# programming\\game\\game\\game2\\game2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|solutionrelative:game2\\game2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|solutionrelative:game2\\game2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F0538E9-210C-4313-B712-6CDF5B404D82}|game\\game.csproj|c:\\users\\jeanp\\onedrive\\udemy\\adventures in c# programming\\game\\game\\game\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F0538E9-210C-4313-B712-6CDF5B404D82}|game\\game.csproj|solutionrelative:game\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|c:\\users\\jeanp\\onedrive\\udemy\\adventures in c# programming\\game\\game\\game2\\game2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|solutionrelative:game2\\game2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307BCC76-3B39-4A11-A555-403479F2F201}|game2\\game2\\game02.csproj|solutionrelative:game2\\game2\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,23 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs",
-              "RelativeDocumentMoniker": "game2\\game2\\Form1.cs",
-              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs",
-              "RelativeToolTip": "game2\\game2\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Room.cs",
+              "RelativeDocumentMoniker": "game2\\game2\\Room.cs",
+              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Room.cs",
+              "RelativeToolTip": "game2\\game2\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:31:24.465Z",
+              "WhenOpened": "2025-01-16T09:59:42.769Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -51,36 +44,23 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs",
               "RelativeDocumentMoniker": "game2\\game2\\Form1.cs",
-              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs [Design]",
-              "RelativeToolTip": "game2\\game2\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs [Design]*",
+              "RelativeToolTip": "game2\\game2\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:31:18.075Z",
+              "WhenOpened": "2025-01-16T10:14:22.843Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game\\Room.cs",
-              "RelativeDocumentMoniker": "game\\Room.cs",
-              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game\\Room.cs",
-              "RelativeToolTip": "game\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs",
+              "RelativeDocumentMoniker": "game2\\game2\\Form1.cs",
+              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Form1.cs*",
+              "RelativeToolTip": "game2\\game2\\Form1.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:30:41.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Program.cs",
-              "RelativeDocumentMoniker": "game2\\game2\\Program.cs",
-              "ToolTip": "C:\\Users\\jeanp\\OneDrive\\Udemy\\Adventures In C# Programming\\game\\game\\game2\\game2\\Program.cs",
-              "RelativeToolTip": "game2\\game2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T08:30:27.892Z",
+              "WhenOpened": "2025-01-16T09:35:27.302Z",
               "EditorCaption": ""
             }
           ]
